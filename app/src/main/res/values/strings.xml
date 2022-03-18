@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">APP ALARMA</string>
+    <string name="envioDatos">DATOS ALARMA</string>
+    <string name="activacion">ACTIVAR ALARMA</string>
+</resources>
